@@ -6,7 +6,7 @@ Terraria hack with god mode, item spawner, teleportation, and increased reach. C
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -72,7 +72,7 @@ Based on popular mods like **TEdit**, **HEROs Mod**, and **Terrafirma**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Launch Terraria.
 4. Run the hack **as Administrator**.
